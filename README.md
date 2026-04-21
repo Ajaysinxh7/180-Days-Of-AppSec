@@ -7,7 +7,7 @@
 <br>
 
 ![Status](https://img.shields.io/badge/Status-Active-00ff41?style=flat-square)
-![Current Day](https://img.shields.io/badge/Day-004%20of%20180-00ff41?style=flat-square)
+![Current Day](https://img.shields.io/badge/Day-009%20of%20180-00ff41?style=flat-square)
 ![Current Phase](https://img.shields.io/badge/Phase-1%20%E2%80%94%20Web%20Fundamentals-268BEE?style=flat-square)
 ![Lab](https://img.shields.io/badge/Lab-DVWA%20%2B%20Docker-FF6633?style=flat-square)
 ![OS](https://img.shields.io/badge/OS-Kali%20Linux-268BEE?style=flat-square&logo=kalilinux&logoColor=white)
