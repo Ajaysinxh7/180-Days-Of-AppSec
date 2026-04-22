@@ -49,7 +49,7 @@ The roadmap runs **180 days across 6 phases**, from HTTP mechanics and recon all
 │                    6-PHASE APPSEC ROADMAP                       │
 ├──────────┬──────────────────────────────────────┬───────────────┤
 │ Phase 1  │ Web Fundamentals & Recon             │ Days 001–030  │
-│          │ HTTP, Burp setup, headers, recon     │ 🟢 COMPLETED  │
+│          │ HTTP, Burp setup, headers, recon     │ 🟢 ACTIVE     │
 ├──────────┼──────────────────────────────────────┼───────────────┤
 │ Phase 2  │ Client-Side Attacks                  │ Days 031–060  │
 │          │ XSS, CSRF, Clickjacking              │ ⬜ UPCOMING   │
