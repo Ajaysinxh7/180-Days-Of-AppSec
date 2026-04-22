@@ -49,22 +49,22 @@ The roadmap runs **180 days across 6 phases**, from HTTP mechanics and recon all
 │                    6-PHASE APPSEC ROADMAP                       │
 ├──────────┬──────────────────────────────────────┬───────────────┤
 │ Phase 1  │ Web Fundamentals & Recon             │ Days 001–030  │
-│          │ HTTP, Burp setup, headers, recon     │ ✅ COMPLETED  │
+│          │ HTTP, Burp setup, headers, recon     │ 🟢 COMPLETED  │
 ├──────────┼──────────────────────────────────────┼───────────────┤
 │ Phase 2  │ Client-Side Attacks                  │ Days 031–060  │
-│          │ XSS, CSRF, Clickjacking              │ 🟢 ACTIVE     │
+│          │ XSS, CSRF, Clickjacking              │ ⬜ UPCOMING   │
 ├──────────┼──────────────────────────────────────┼───────────────┤
 │ Phase 3  │ Injection Attacks                    │ Days 061–090  │
-│          │ SQLi, Command Injection, XXE         │  ⬜ UPCOMING  │
+│          │ SQLi, Command Injection, XXE         │ ⬜ UPCOMING   │
 ├──────────┼──────────────────────────────────────┼───────────────┤
 │ Phase 4  │ Auth & Session Vulnerabilities       │ Days 091–120  │
-│          │ Broken auth, session hijacking       │  ⬜ UPCOMING  │
+│          │ Broken auth, session hijacking       │ ⬜ UPCOMING   │
 ├──────────┼──────────────────────────────────────┼───────────────┤
 │ Phase 5  │ API & Business Logic Testing         │ Days 121–150  │
-│          │ REST/GraphQL, logic flaws            │  ⬜ UPCOMING  │
+│          │ REST/GraphQL, logic flaws            │ ⬜ UPCOMING   │
 ├──────────┼──────────────────────────────────────┼───────────────┤
 │ Phase 6  │ Bug Bounty — Real Targets            │ Days 151–180  │
-│          │ HackerOne / Bugcrowd live programs   │  ⬜ UPCOMING  │
+│          │ HackerOne / Bugcrowd live programs   │ ⬜ UPCOMING   │
 └──────────┴──────────────────────────────────────┴───────────────┘
 ```
 
