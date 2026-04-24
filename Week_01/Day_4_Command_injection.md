@@ -292,4 +292,4 @@ If `HttpOnly` is missing → cookie is stealable via XSS → that's a vulnerabil
 
 ---
 
-*Day 4 complete. Tomorrow is Friday — review day. Recall everything from this week from memory before moving to Week 2 which is full XSS deep dive on PortSwigger.*
+
