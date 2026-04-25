@@ -192,5 +192,3 @@ This is faster than scrolling through everything manually.
 ```
 
 ---
-
-*Day 9 fully complete. MD5 hashes cracked, full database dump achieved both in browser and through Burp Repeater. URL encoding in Burp understood and handled correctly. Ready for Day 10 — Blind SQLi and sqlmap automation.*

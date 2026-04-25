@@ -241,5 +241,3 @@ After this week you can:
 Next week is Week 2 — deep dive into XSS on PortSwigger. You'll go from basic payloads to filter bypasses, DOM-based XSS, and chaining XSS with other vulnerabilities.
 
 ---
-
-*Week 1 complete. 4 days of actual hacking done. First write-up published. You're ahead of most people who say they want to get into AppSec.*

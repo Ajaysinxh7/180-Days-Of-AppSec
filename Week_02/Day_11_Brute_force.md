@@ -287,5 +287,3 @@ When you find a login form in bug bounty test all of these:
 | CAPTCHA bypass | Try submitting without solving CAPTCHA | Request goes through anyway |
 
 ---
-
-*Day 11 complete. You can now set up and run Burp Intruder attacks, identify correct credentials from response length, enumerate valid usernames, use Burp Comparer to diff responses, and understand rate limiting as a defense. Tomorrow is Day 12 — File Inclusion vulnerabilities on DVWA.*

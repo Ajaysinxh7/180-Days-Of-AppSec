@@ -529,5 +529,3 @@ sqlmap -u "URL" --cookie="COOKIE" --dbs --level=2
 ```
 
 ---
-
-*Day 10 complete. You now understand both normal and blind SQL injection, can automate attacks with sqlmap, and know why client-side security controls are worthless. Tomorrow is Day 11 — Brute Force attacks using Burp Intruder.*

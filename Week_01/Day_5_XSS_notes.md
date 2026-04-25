@@ -86,4 +86,3 @@ A successful XSS attack can have devastating consequences:
 * *Note*: A successful XSS attack can be used to bypass CSRF protections by reading the CSRF token from the page.
 
 ---
-*Created as a summary of the PortSwigger Web Security Academy - Cross-Site Scripting Module.*

@@ -590,4 +590,3 @@ if (in_array($page, $allowed)) {
 
 ---
 
-*Day 12 complete. You successfully read system files, extracted database credentials, decoded base64 encoded PHP source, and understood why LFI is one of the most impactful web vulnerabilities. Tomorrow is Day 13 — File Upload attacks on DVWA.*

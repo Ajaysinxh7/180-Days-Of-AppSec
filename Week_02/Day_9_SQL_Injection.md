@@ -360,5 +360,3 @@ With parameterized queries the SQL structure is sent to the database first — c
 | MariaDB | MySQL fork — uses `#` as comment character |
 
 ---
-
-*Day 9 complete. You manually extracted a full database including usernames and crackable password hashes using nothing but a browser and Burp. That's the core of SQL injection done. Next up: automated SQLi with sqlmap and moving into OWASP Top 10 deeper topics.*
