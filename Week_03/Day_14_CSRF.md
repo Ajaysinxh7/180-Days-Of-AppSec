@@ -275,6 +275,7 @@ The code never once asked: did the real user intend this request?
 ```
 
 **What happened:**
+
 1. Opened attack page in Firefox while logged into DVWA in another tab
 2. Page loaded — JavaScript fired immediately — form submitted automatically
 3. Browser redirected to DVWA showing "Password Changed"
@@ -283,6 +284,7 @@ The code never once asked: did the real user intend this request?
 6. Attack confirmed — password changed without victim's knowledge
 
 **Why auto-submitting form works better than iframe:**
+
 - Form submits directly to DVWA — not through a nested context
 - Browser attaches session cookie automatically — it's a direct request to the target domain
 - JavaScript fires on page load — zero user interaction required
