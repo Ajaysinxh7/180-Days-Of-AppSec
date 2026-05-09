@@ -1,5 +1,5 @@
 # Day 21 — IDOR + Access Control
-**Date:** May 9, 2026
+**Date:** May 6, 2026
 **Platform:** PortSwigger Web Security Academy
 **Labs Completed:** 9 Apprentice Labs
 **Status:** All Solved ✅
