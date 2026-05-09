@@ -1,5 +1,5 @@
 # Day 22 — SSRF (Server-Side Request Forgery)
-**Date:** May 7, 2026
+**Date:** May 5, 2026
 **Platform:** PortSwigger Web Security Academy
 **Labs Completed:** 5 Apprentice/Practitioner Labs + 2 Conceptual (Blind SSRF)
 **Status:** All Solved ✅
