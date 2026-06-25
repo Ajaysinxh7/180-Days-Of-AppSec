@@ -1,38 +1,54 @@
 <div align="center">
 
-# 180 Days of AppSec
+<br>
+
+# 🛡️ 180 Days of AppSec
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=600&lines=Breaking+web+apps+legally%2C+one+lab+at+a+time.;6+phases.+180+days.+No+shortcuts.;DVWA+%2B+Burp+Suite+%2B+Kali+Linux.;Daily+logs+from+9+PM+to+1+AM+IST." alt="Typing SVG" />
 
+<br><br>
+
+![Status](https://img.shields.io/badge/Status-Active-00ff41?style=for-the-badge)
+![Current Day](https://img.shields.io/badge/Day-042%20of%20180-00ff41?style=for-the-badge)
+![Current Phase](https://img.shields.io/badge/Phase-2%20%E2%80%94%20Client%20Side%20Attacks-268BEE?style=for-the-badge)
+
+![Lab](https://img.shields.io/badge/Lab-DVWA%20%2B%20Docker-FF6633?style=for-the-badge)
+![OS](https://img.shields.io/badge/OS-Kali%20Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
+
 <br>
 
-![Status](https://img.shields.io/badge/Status-Active-00ff41?style=flat-square)
-![Current Day](https://img.shields.io/badge/Day-037%20of%20180-00ff41?style=flat-square)
-![Current Phase](https://img.shields.io/badge/Phase-2%20%E2%80%94%20Client%20Side%20Attacks-268BEE?style=flat-square)
-![Lab](https://img.shields.io/badge/Lab-DVWA%20%2B%20Docker-FF6633?style=flat-square)
-![OS](https://img.shields.io/badge/OS-Kali%20Linux-268BEE?style=flat-square&logo=kalilinux&logoColor=white)
+**`██████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 23% complete`**
 
 </div>
 
----
+<br>
 
-> All labs are conducted in isolated local environments.
+> [!NOTE]
+> All labs are conducted in **isolated local environments**.
 > This repository exists strictly for **educational purposes** — nothing documented here is intended for use against systems you don't own or have explicit written permission to test.
 
+<br>
+
 ---
 
-## What this is
+<br>
+
+## 📌 What This Is
 
 A raw, daily record of going from full-stack developer to Application Security Engineer. Every entry is written the same night the lab is done — no polishing after the fact, no skipping the parts that didn't work.
 
 The roadmap runs **180 days across 6 phases**, from HTTP mechanics and recon all the way to hunting on real bug bounty programs. Each week lives in its own folder. Each day gets its own file.
 
+<br>
+
 ---
 
-## Lab environment
+<br>
+
+## 🧰 Lab Environment
 
 | Tool | Purpose |
-|------|---------|
+| :--- | :--- |
 | **Kali Linux** | Primary attack OS |
 | **DVWA** | Vulnerable web app target |
 | **Docker** | Isolated lab container |
@@ -40,9 +56,13 @@ The roadmap runs **180 days across 6 phases**, from HTTP mechanics and recon all
 | **FoxyProxy** | Browser proxy routing |
 | **VMware** | Virtualization layer |
 
+<br>
+
 ---
 
-## Roadmap
+<br>
+
+## 🗺️ Roadmap
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
@@ -68,9 +88,13 @@ The roadmap runs **180 days across 6 phases**, from HTTP mechanics and recon all
 └──────────┴──────────────────────────────────────┴───────────────┘
 ```
 
+<br>
+
 ---
 
-## Repo structure
+<br>
+
+## 📂 Repo Structure
 
 ```
 180-Days-Of-AppSec/
@@ -92,9 +116,13 @@ The roadmap runs **180 days across 6 phases**, from HTTP mechanics and recon all
     └── daily-log-template.md
 ```
 
+<br>
+
 ---
 
-## What each daily log contains
+<br>
+
+## 📝 What Each Daily Log Contains
 
 Every entry follows the same structure:
 
@@ -111,31 +139,41 @@ Every entry follows the same structure:
 
 Copy the template from [`templates/daily-log-template.md`](templates/daily-log-template.md) for every new entry.
 
----
-
-## How to navigate
-
-**Recruiter / hiring manager** — browse completed week folders. Phase 6 will contain disclosed bug bounty findings from public programs.
-
-**Fellow learner** — the folder structure and daily template are free to copy for your own journey. The methodology is built around hands-on exploitation in controlled lab environments before touching any real target.
-
-**Just browsing** — each daily entry is self-contained. Start anywhere.
+<br>
 
 ---
 
-## Connect
+<br>
+
+## 🧭 How to Navigate
+
+| Audience | Where to Start |
+| :--- | :--- |
+| **Recruiter / Hiring Manager** | Browse completed week folders. Phase 6 will contain disclosed bug bounty findings from public programs. |
+| **Fellow Learner** | The folder structure and daily template are free to copy for your own journey. The methodology is built around hands-on exploitation in controlled lab environments before touching any real target. |
+| **Just Browsing** | Each daily entry is self-contained. Start anywhere. |
+
+<br>
+
+---
+
+<br>
 
 <div align="center">
+
+## 🤝 Connect
+
+<br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajaysinxh7)
 [![GitHub](https://img.shields.io/badge/Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ajaysinxh7)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aajsingh10@gmail.com)
 
-</div>
+<br>
 
 ---
 
-<div align="center">
+<br>
 
 ```
 // updated nightly · 9 PM – 1 AM IST
