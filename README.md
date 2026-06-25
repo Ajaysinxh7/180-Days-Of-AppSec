@@ -64,29 +64,74 @@ The roadmap runs **180 days across 6 phases**, from HTTP mechanics and recon all
 
 ## 🗺️ Roadmap
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                    6-PHASE APPSEC ROADMAP                       │
-├──────────┬──────────────────────────────────────┬───────────────┤
-│ Phase 1  │ Web Fundamentals & Recon             │ Days 001–030  │
-│          │ HTTP, Burp setup, headers, recon     │ ✅ COMPLETED  │
-├──────────┼──────────────────────────────────────┼───────────────┤
-│ Phase 2  │ Client-Side Attacks                  │ Days 031–060  │
-│          │ XSS, CSRF, Clickjacking              │ 🟢 ACTIVE     │
-├──────────┼──────────────────────────────────────┼───────────────┤
-│ Phase 3  │ Injection Attacks                    │ Days 061–090  │
-│          │ SQLi, Command Injection, XXE         │ ⬜ UPCOMING   │
-├──────────┼──────────────────────────────────────┼───────────────┤
-│ Phase 4  │ Auth & Session Vulnerabilities       │ Days 091–120  │
-│          │ Broken auth, session hijacking       │ ⬜ UPCOMING   │
-├──────────┼──────────────────────────────────────┼───────────────┤
-│ Phase 5  │ API & Business Logic Testing         │ Days 121–150  │
-│          │ REST/GraphQL, logic flaws            │ ⬜ UPCOMING   │
-├──────────┼──────────────────────────────────────┼───────────────┤
-│ Phase 6  │ Bug Bounty — Real Targets            │ Days 151–180  │
-│          │ HackerOne / Bugcrowd live programs   │ ⬜ UPCOMING   │
-└──────────┴──────────────────────────────────────┴───────────────┘
-```
+<div align="center">
+
+<table>
+<tr>
+<td align="center"><strong>🗺️ 6-PHASE APPSEC ROADMAP</strong></td>
+</tr>
+</table>
+
+</div>
+
+<table>
+<tr>
+<th width="60">Phase</th>
+<th width="300">Focus Area</th>
+<th width="140">Days</th>
+<th width="180">Progress</th>
+<th width="120">Status</th>
+</tr>
+
+<tr>
+<td align="center"><strong>🌐 1</strong></td>
+<td><strong>Web Fundamentals & Recon</strong><br><sub>HTTP, Burp setup, headers, recon</sub></td>
+<td align="center"><code>Days 001–030</code></td>
+<td><code>████████████████████ 100%</code></td>
+<td align="center"><img src="https://img.shields.io/badge/✅-COMPLETED-00ff41?style=flat-square" /></td>
+</tr>
+
+<tr>
+<td align="center"><strong>🎯 2</strong></td>
+<td><strong>Client-Side Attacks</strong><br><sub>XSS, CSRF, Clickjacking</sub></td>
+<td align="center"><code>Days 031–060</code></td>
+<td><code>████████░░░░░░░░░░░░  40%</code></td>
+<td align="center"><img src="https://img.shields.io/badge/🟢-ACTIVE-00ff41?style=flat-square" /></td>
+</tr>
+
+<tr>
+<td align="center"><strong>💉 3</strong></td>
+<td><strong>Injection Attacks</strong><br><sub>SQLi, Command Injection, XXE</sub></td>
+<td align="center"><code>Days 061–090</code></td>
+<td><code>░░░░░░░░░░░░░░░░░░░░   0%</code></td>
+<td align="center"><img src="https://img.shields.io/badge/⬜-UPCOMING-555555?style=flat-square" /></td>
+</tr>
+
+<tr>
+<td align="center"><strong>🔐 4</strong></td>
+<td><strong>Auth & Session Vulnerabilities</strong><br><sub>Broken auth, session hijacking</sub></td>
+<td align="center"><code>Days 091–120</code></td>
+<td><code>░░░░░░░░░░░░░░░░░░░░   0%</code></td>
+<td align="center"><img src="https://img.shields.io/badge/⬜-UPCOMING-555555?style=flat-square" /></td>
+</tr>
+
+<tr>
+<td align="center"><strong>🔗 5</strong></td>
+<td><strong>API & Business Logic Testing</strong><br><sub>REST/GraphQL, logic flaws</sub></td>
+<td align="center"><code>Days 121–150</code></td>
+<td><code>░░░░░░░░░░░░░░░░░░░░   0%</code></td>
+<td align="center"><img src="https://img.shields.io/badge/⬜-UPCOMING-555555?style=flat-square" /></td>
+</tr>
+
+<tr>
+<td align="center"><strong>🏴‍☠️ 6</strong></td>
+<td><strong>Bug Bounty — Real Targets</strong><br><sub>HackerOne / Bugcrowd live programs</sub></td>
+<td align="center"><code>Days 151–180</code></td>
+<td><code>░░░░░░░░░░░░░░░░░░░░   0%</code></td>
+<td align="center"><img src="https://img.shields.io/badge/⬜-UPCOMING-555555?style=flat-square" /></td>
+</tr>
+
+</table>
 
 <br>
 
