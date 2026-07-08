@@ -693,5 +693,3 @@ For each listener found, answer these questions:
 | Clobbering DOM attributes to bypass HTML filters | DOM attribute overwrite | 🔲 EXPERT — Not yet attempted |
 
 ---
-
-*Day 45 — 180-Days-Of-AppSec — DOM-Based Vulnerabilities (Web Message Sources)*
